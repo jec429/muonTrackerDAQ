@@ -22,3 +22,5 @@ v*r*p*_history.txt
 *_version.h
 *.root
 *.o
+*.d
+*.so
